@@ -68,7 +68,7 @@ Description: Print the inode number of each file.
 man ls -l
 
 Description: Use long listing format. Shows details like permissions, owner, group, size, and timestamp.
-(ananya㉿kali)-[~]
+(haseena㉿kali)-[~]
 └─$ ls -l
 total 44
 drwxr-xr-x 2 haseena haseena 4096 Jul 20 17:34 Desktop
